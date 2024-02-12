@@ -33,12 +33,18 @@ Dataset Link: https://github.com/Swapppyy/Data-Analysis-of-Pizza-Sales
 <p align="center">
   <img width="100%" src="SalesOverview.png" />
 </p>
+<br>
+<br>
 <p align="center">
   <img width="100%" src="CustomersOverview.png" />
 </p>
+<br>
+<br>
 <p align="center">
   <img width="100%" src="ProductsOverview.png" />
 </p>
+<br>
+<br>
 
 
 
