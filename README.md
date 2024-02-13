@@ -2,12 +2,12 @@
 
 ### Introduction:
 
-I conducted an Exploratory Data Analysis on online sales of a store. This project involved examining and analyzing the dataset using SQL to extract valuable insights and trends related to Total revenue, Total Orders, Average revenue per order, order time, monthly and daily sales analysis and more. The EDA aimed to uncover patterns and correlations within the data, providing a foundation for data-driven decision-making. It will help the owner understand the sales, profits/losses for products, most sold products,  and much more to make better decisions and be well-prepared for the business.
+I conducted an Exploratory Data Analysis on online sales of a store. This project involved examining and analyzing the dataset using SQL to extract valuable insights and trends related to Total sales, Total budget, products wise sales, geographical spread of sales , monthly sales analysis and more. The EDA aimed to uncover patterns and correlations within the data, providing a foundation for data-driven decision-making. It will help the owner understand the sales, profits/losses for products, most sold products,  and much more to make better decisions and be well-prepared for the business.
 
-The analysis done can be summarized below:
-The sales dashboard gives an overall summary of sales based on customers and products.
-The customers dashboard gives the sales based on customers.
-The products dashboard gives the sales based on products.
+The analysis done can be summarized below:<br>
+The sales dashboard gives an overall summary of sales based on customers and products.<br>
+The customers dashboard gives the sales based on customers.<br>
+The products dashboard gives the sales based on products.<br>
 
 
 
