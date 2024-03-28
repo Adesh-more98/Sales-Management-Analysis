@@ -10,9 +10,6 @@ The customers dashboard gives the sales based on customers.<br>
 The products dashboard gives the sales based on products.<br>
 
 
-
-Dataset Link: https://github.com/Swapppyy/Data-Analysis-of-Pizza-Sales
-
 ### My Insights:
 
 - Overall sales and budget for 2020 and 2021.
